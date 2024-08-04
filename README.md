@@ -12,7 +12,10 @@ YouTube GPT is an Android app that allows users to generate video summaries usin
 
 ## App Demo
 
-<embed src="github.com/Chaitanya029/Summary-Scape-of-Youtube-Videos/Apk & Demo/YoutubeGPT Demo.mp4" width="640" height="480" />
+
+https://github.com/user-attachments/assets/4d804151-17bb-45fa-8838-810462262c4b
+
+
 
 
 ## Installation
