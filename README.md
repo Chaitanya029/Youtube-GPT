@@ -1,6 +1,7 @@
 # YouTube GPT Android App
-
 YouTube GPT is an Android app that allows users to generate video summaries using AI models. The app accepts YouTube links from users provides video summaries through a chat-like interface and can even answer cross-questions related to the video content! 
+
+![youtube-2712573_640](https://github.com/user-attachments/assets/e35fba74-6d40-4e90-b4d1-3df425b47d39)
 
 ## Features
 
